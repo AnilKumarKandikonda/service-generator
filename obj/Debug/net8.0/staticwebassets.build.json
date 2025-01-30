@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PpityMEOJWx4cN9kBs2fLdcgcFCoaxtmAOTbg3B9qWo=",
+  "Source": "service-generator",
+  "BasePath": "_content/service-generator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

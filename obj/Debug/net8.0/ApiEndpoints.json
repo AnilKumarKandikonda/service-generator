@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "service_generator.Controllers.ApplicationController",
+    "Method": "GenerateConsoleApp",
+    "RelativePath": "api/Application/GenerateConsoleApp",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
